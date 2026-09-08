@@ -1,0 +1,3 @@
+Este repositório é dedicado ao desenvolvimento da aplicação SaaS do cliente Júnior, voltada para um ambiente de tecnologia e inovação com foco em escalabilidade.
+
+O objetivo do sistema é fornecer uma plataforma completa e moderna para gerenciamento de processos, contando com arquitetura de microsserviços/módulos, dashboards interativos em tempo real para análise de métricas, controle de acesso de usuários e processamento de regras de negócio complexas por meio de APIs REST eficientes.
